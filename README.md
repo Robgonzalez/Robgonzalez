@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+![Mi Logo](./src/banner_portafolio.png)
 
 <!--
 **Robgonzalez/Robgonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
