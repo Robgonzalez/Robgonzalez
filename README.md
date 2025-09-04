@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Mi Logo](./src/banner_portafolio.png)
 
 ## 👋 Sobre mí
