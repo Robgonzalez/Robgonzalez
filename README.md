@@ -8,6 +8,15 @@ Con formación técnica en **programación** y **análisis de sistemas**, y una 
 
 Además de mi perfil técnico, tengo experiencia en **medios digitales**, **UX/UI** y **arquitectura de información**, lo que me permite abordar el **desarrollo web** desde una perspectiva **multidisciplinaria**. Este repositorio reúne algunos de mis **proyectos**, **aprendizajes** y **experimentos creativos**. ¡Gracias por visitar!
 
+------------------
+
+## 👋 About Me
+
+Hi! I'm **Roberto Andrés González Jiménez**, a **fullstack developer** with a strong focus on **frontend**, specialized in building **modern**, **scalable web interfaces** centered on **user experience**. I'm passionate about crafting **efficient solutions** using technologies like **Vue.js**, **React**, **TypeScript**, and **Node.js**, integrating **RESTful APIs** and **modular architectures** in **SaaS/B2B environments**.
+
+With a technical background in **programming** and **systems analysis**, and a career that blends **development**, **technical support**, and **digital project coordination**, I bring a **strategic** and **collaborative** mindset to every challenge. I'm driven by both **performance** and **usability**, and I enjoy **documenting processes**, **automating workflows**, and working in **agile teams**.
+
+Beyond my technical profile, I have experience in **digital media**, **UX/UI**, and **information architecture**, which allows me to approach **web development** from a **multidisciplinary perspective**. This repository showcases some of my **projects**, **learnings**, and **creative experiments**. Thanks for stopping by!
 <!--
 **Robgonzalez/Robgonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
