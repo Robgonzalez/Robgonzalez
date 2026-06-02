@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="#-español">🇪🇸 Español</a> | <a href="#-english">🇬🇧 English</a>
+</div>
+
+---
+
+<h2 id="-español">🇪🇸 Español</h2>
+
 # 🚀 Hola, soy Roberto Andrés González Jiménez
 
 ### Desarrollador Fullstack con enfoque en Frontend & IA Aplicada | +8 años de experiencia
@@ -10,7 +18,21 @@ Actualmente, también estoy aplicando prácticas de **Desarrollo Asistido por In
 
 ---
 
-## 🛠️ Stack Tecnológico
+<h2 id="-english">🇬🇧 English</h2>
+
+# 🚀 Hi, I'm Roberto Andrés González Jiménez
+
+### Fullstack Developer focused on Frontend & Applied AI | 8+ years of experience
+
+I'm a passionate developer dedicated to creating scalable, modern, and user-centric interfaces. I specialize in the frontend ecosystem (**Vue.js, React.js**) and backend with **Node.js**, delivering value in **SaaS, ecommerce, and B2B** environments.
+
+I have led projects for large retail companies like **Sodimac and La Polar**, coordinating technical teams, resolving critical incidents, and documenting processes to ensure quality and business continuity.
+
+Currently, I am also implementing **Artificial Intelligence (AI)-Assisted Development** practices, building and orchestrating agents to automate workflows and take productivity and code quality to the next level.
+
+---
+
+## 🛠️ Stack Tecnológico / Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
@@ -27,7 +49,7 @@ Actualmente, también estoy aplicando prácticas de **Desarrollo Asistido por In
 
 ---
 
-## 📈 Mis Estadísticas
+## 📈 Mis Estadísticas / My Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Robgonzalez&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
@@ -38,7 +60,7 @@ Actualmente, también estoy aplicando prácticas de **Desarrollo Asistido por In
 
 ---
 
-## 🤝 Conecta conmigo
+## 🤝 Conecta conmigo / Connect with me
 
 <div align="center">
   <a href="mailto:roberto.gonzalezj@gmail.com">
